@@ -1,0 +1,9 @@
+npm create electron-vite
+npm install
+npm run dev
+npm run build
+
+git init
+git .add
+git status
+git commit -m "ыа"
