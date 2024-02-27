@@ -4,7 +4,7 @@ npm run dev
 npm run build
 
 git init
-git .add
+git add .
 git status
 git commit -m "ыа"
 git branch -M main
