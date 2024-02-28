@@ -2,6 +2,7 @@ npm create electron-vite
 npm install
 npm run dev
 npm run build
+npm i react-icons@latest
 
 git init
 git add .
